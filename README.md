@@ -2,4 +2,4 @@
 
 # @ts-examples/template
 
-{{description}}
+TypeScript project template

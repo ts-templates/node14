@@ -6,7 +6,7 @@ Template for TypeScript project
 
 ## Features
 
-- Lint codes by [ESLint](https://eslint.org/) with [JavaScript Standard Style](https://standardjs.com/)
+- [ESLint](https://eslint.org/) with [JavaScript Standard Style](https://standardjs.com/)
 - Test by [Jest](https://jestjs.io/)
 - Manage dependency updates by [Renovate](https://renovatebot.com/)
 

@@ -1,7 +1,5 @@
 name: eslint
-on:
-  pull_request:
-    branches: [ master ]
+on: [pull_request]
 jobs:
   eslint:
     name: runner / eslint

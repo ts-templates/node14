@@ -18,7 +18,6 @@ Template for TypeScript project using Node.js v14
 
 1. [Create repository](https://github.com/ts-templates/node14/generate) using template
 2. Replace provisional string with actual string
-    - `https://github.com/ts-templates/node14` => your repository URL
     - `@ts-templates/node14` => your package name
     - `Template for TypeScript project using Node.js v14` => your package description
 3. Implement `src/main.ts`

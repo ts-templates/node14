@@ -2,6 +2,12 @@
   "extends": [
     "config:base"
   ],
+  "force": {
+    "constraints": {
+      "node": "14.17.2",
+      "npm": "6.14.15"
+    }
+  },
   "packageRules": [
     {
       "matchPackageNames": ["@types/node"],

@@ -14,10 +14,6 @@
       "allowedVersions": "<15"
     },
     {
-      "matchPackageNames": ["lint-staged"],
-      "allowedVersions": "<12"
-    },
-    {
       "matchPackageNames": ["node"],
       "allowedVersions": "<15"
     }

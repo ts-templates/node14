@@ -4,7 +4,7 @@
   ],
   "force": {
     "constraints": {
-      "node": "14.17.2"
+      "node": "14.18.2"
     }
   },
   "packageRules": [

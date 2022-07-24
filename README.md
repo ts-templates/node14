@@ -1,6 +1,3 @@
-[![eslint](https://github.com/ts-templates/node14/actions/workflows/eslint.yml/badge.svg)](https://github.com/ts-templates/node14/actions/workflows/eslint.yml)
-[![test](https://github.com/ts-templates/node14/actions/workflows/test.yml/badge.svg)](https://github.com/ts-templates/node14/actions/workflows/test.yml)
-
 # @ts-templates/node14
 
 Template for TypeScript project using Node.js v14

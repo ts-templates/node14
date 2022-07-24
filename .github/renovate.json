@@ -17,6 +17,10 @@
     {
       "matchPackageNames": ["node"],
       "allowedVersions": "<15"
+    },
+    {
+      "matchPackageNames": ["npm"],
+      "allowedVersions": "<7"
     }
   ]
 }

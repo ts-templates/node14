@@ -13,7 +13,7 @@
   },
   "engines": {
     "node": "14.18.3",
-    "npm": "6.x"
+    "npm": "8.x"
   },
   "devDependencies": {
     "@jest/types": "27.4.2",

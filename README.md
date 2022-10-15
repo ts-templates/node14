@@ -1,3 +1,7 @@
+[![build](https://github.com/ts-templates/node14/actions/workflows/build.yml/badge.svg)](https://github.com/ts-templates/node14/actions/workflows/build.yml)
+[![lint](https://github.com/ts-templates/node14/actions/workflows/lint.yml/badge.svg)](https://github.com/ts-templates/node14/actions/workflows/lint.yml)
+[![test](https://github.com/ts-templates/node14/actions/workflows/test.yml/badge.svg)](https://github.com/ts-templates/node14/actions/workflows/test.yml)
+
 # @ts-templates/node14
 
 Template for TypeScript project using Node.js v14

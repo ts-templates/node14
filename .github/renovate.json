@@ -11,6 +11,10 @@
   "labels": ["renovate"],
   "packageRules": [
     {
+      "matchPackageNames": ["@eslint-recommended/eslint-config-typescript"],
+      "allowedVersions": "<13"
+    },
+    {
       "matchPackageNames": ["@types/node"],
       "allowedVersions": "<15"
     },
